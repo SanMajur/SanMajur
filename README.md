@@ -1,2 +1,2 @@
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanMajur&theme=dark&hide_border=true)
+[GitHub Streak](https://streak-stats.demolab.com?user=SanMajur&theme=default&hide_border=true)
