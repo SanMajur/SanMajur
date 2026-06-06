@@ -23,7 +23,7 @@ I build fast, accessible web apps and tools that solve real problems. Focused on
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=SanMajur&theme=default&hide_border=true)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanMajur&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=2563EB&text_color=374151)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanMajur&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=2563EB&text_color=374151)
 
 ### 🌍 Let's Connect
 - **WhatsApp:** +211 921 880 822
